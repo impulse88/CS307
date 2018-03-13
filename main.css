@@ -86,8 +86,8 @@ body{
     margin-top:10px;
     margin-left:auto;
     margin-right:auto;
-    border-left:2px dashed #707070;
-    border-right:2px dashed #707070;
+    border-left:2px dotted #707070;
+    border-right:2px dotted #707070;
 }
 .img{
     margin-left:50px;
