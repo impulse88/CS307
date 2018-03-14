@@ -63,7 +63,7 @@ body{
 
 #mm{
     width:810px;
-    height:900px;
+    padding-bottom:15px;
     margin-left:0px;
     display:inline-block;
     position: absolute;
@@ -76,6 +76,70 @@ body{
     padding-top:4px;
     padding-bottom:4px;
     color:#404040;
+}
+#mmic{
+    width:790px;
+    margin-left:10px;
+    margin-top:10px;
+    height:810px;
+    overflow-y:auto;
+    overflow-x:hidden;
+}
+.mmi{
+    width:250px;
+    height:250px;
+    background-color:#f6f6f6;
+    margin-left:4px;
+    margin-top:7px;
+    display:inline-block;
+    position: relative;
+}
+.mmit{
+    padding-top: 6px;
+    padding-bottom:6px;
+    text-align:center;
+    font-size:24px;
+    color:#303030;
+    border-bottom:2px solid #2980cd;
+}
+.mmit:hover{
+    background-color:#2980cd;
+    color:#ebebeb;
+    cursor:pointer;
+}
+.mmitc{
+    width:240px;
+    margin-left:auto;
+    margin-right:auto;
+    font-size:14px;
+    color:#505050;
+    margin-top:2px;
+    background-color:#e9e9e9;
+    padding-top:1px;
+    padding-bottom:1px;
+    border-bottom:2px solid #e9e9e9;
+}
+.mmitc:hover{
+    border-bottom:2px solid #cd7629;
+    cursor:pointer;
+}
+.mmitt{
+    margin-left:5px;
+    width:150px;
+}
+.mmiti{
+    position: absolute;
+    margin-left:220px;
+    margin-top:-17px;
+}
+
+.mmitcc{
+    margin-top: 10px;
+    position:absolute;
+    width:250px;
+    height:190px;
+    overflow-y:auto;
+    overflow-x:hidden;
 }
 
 #imgc{
