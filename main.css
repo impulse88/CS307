@@ -25,6 +25,7 @@ body{
 #mhc{
     height:826px;
     overflow-y:auto;
+    overflow-x:hidden;
 }
 #mht{
     background-color:#e8e8e8;
